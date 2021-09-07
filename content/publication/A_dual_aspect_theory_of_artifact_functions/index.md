@@ -1,12 +1,12 @@
 ---
 title: "A Dual-Aspect Theory of Artifact Functions"
 
-authors:
+authors:  
 
 author_notes:
 
 
-date: "forthcomingT00:00:00Z"
+date: "2021T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
