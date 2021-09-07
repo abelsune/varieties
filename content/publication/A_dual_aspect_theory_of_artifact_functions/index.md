@@ -6,8 +6,8 @@ authors:
 author_notes:
 
 
-date: "2021"
-doi: ""
+date: "2021-09-01T00:00:00Z"
+doi: "https://doi.org/10.1007/s10670-021-00414-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_Preprint: https://marcarga.blogs.uv.es/files/2021/05/Artiga-A-Dual-Aspect-Theory-Erkenntnis.pdf
-url_code: ''
+url_pdf: https://link.springer.com/article/10.1007/s10670-021-00414-9
 url_dataset: ''
 url_poster: ''
 url_project: ''
