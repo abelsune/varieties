@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_Preprint: https://marcarga.blogs.uv.es/files/2018/07/Sebastian-and-Artiga-forth-Information-and-Metarepresentation.pdf
+url_Preprint: https://marcarga.blogs.uv.es/files/2021/05/Artiga-A-Dual-Aspect-Theory-Erkenntnis.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
