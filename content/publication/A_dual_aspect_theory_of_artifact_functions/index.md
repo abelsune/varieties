@@ -2,7 +2,7 @@
 title: "A Dual-Aspect Theory of Artifact Functions"
 
 authors:
-- Marc Artiga
+- Nelson Bighetti
 
 author_notes:
 
