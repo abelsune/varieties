@@ -2,7 +2,6 @@
 title: "A Dual-Aspect Theory of Artifact Functions"
 
 authors:
-- Nelson Bighetti
 
 author_notes:
 
