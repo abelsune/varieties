@@ -1,7 +1,7 @@
 ---
 title: "A Dual-Aspect Theory of Artifact Functions"
 
-authors:  
+authors: Marc Artiga
 
 author_notes:
 
