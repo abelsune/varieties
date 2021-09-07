@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Erkenntnis*"
 publication_short: ""
 
-abstract: 
+abstract: abstract
 
 # Summary. An optional shortened abstract.
 summary:  
