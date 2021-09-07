@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Erkenntnis*"
 publication_short: ""
 
-abstract: abstract
+abstract: The goal of this essay is to put forward an original theory of artifact function, which takes on board the results of the debate on the notion of biological function and also accommodates the distinctive aspects of artifacts. More precisely, the paper develops and defends the Dual-Aspect Theory, which is a monist account according to which an artifact’s function depends on intentional and reproductive aspects. It is argued that this approach meets a set of theoretical and meta-theoretical desiderata and is superior to alternative views.
 
 # Summary. An optional shortened abstract.
 summary:  
