@@ -2,6 +2,7 @@
 title: "A Dual-Aspect Theory of Artifact Functions"
 
 authors: 
+- admin
 
 author_notes:
 
