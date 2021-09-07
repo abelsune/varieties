@@ -28,7 +28,7 @@ abstract: abstract
 summary:  
 
 tags:
-- Source Themes
+- O2: Algorithms for the calculation of representational status and content
 featured: false
 
 # links:
